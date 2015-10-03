@@ -6,3 +6,5 @@ Type to find. Tap to Sup!.
 
 is this project scrapped?
 probably
+
+Jesse, is this scrapped?

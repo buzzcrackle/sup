@@ -5,3 +5,4 @@ is a revolutionary iOS application created using the new Swift programming langu
 Type to find. Tap to Sup!.
 
 is this project scrapped?
+probably
